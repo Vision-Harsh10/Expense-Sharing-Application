@@ -2,7 +2,13 @@
 
 A console-based expense-sharing app inspired by Splitwise. It supports **group expenses**, **individual (1–1) expenses**, **multiple split strategies**, **settlements**, **notifications**, and **debt simplification**.
 
+
 ---
+## Plan - Initial Design 
+
+This was the initial plan before implementation:
+
+![Initial Plan](assests/plan.jpg)
 
 ## Features
 
